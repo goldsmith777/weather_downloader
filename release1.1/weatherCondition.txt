@@ -1,0 +1,43 @@
+00 晴 Sunny
+01 多云 Cloudy
+02 阴 Overcast
+03 阵雨 Shower
+04 雷阵雨 Thundershower
+05 雷阵雨伴有冰雹 Thundershower with hail
+06 雨夹雪 Sleet
+07 小雨 Light rain
+08 中雨 Moderate rain
+09 大雨 Heavy rain
+10 暴雨 Storm
+11 大暴雨 Heavy storm
+12 特大暴雨 Severe storm
+13 阵雪 Snow flurry
+14 小雪 Light snow
+15 中雪 Moderate snow
+16 大雪 Heavy snow
+17 暴雪 Snowstorm
+18 雾 Foggy
+19 冻雨 Ice rain
+20 沙尘暴 Duststorm
+21 小到中雨 Light to moderate rain
+22 中到大雨 Moderate to heavy rain
+23 大到暴雨 Heavy rain to storm
+24 暴雨到大暴雨 Storm to heavy storm
+25 大暴雨到特大暴雨 Heavy to severe storm
+26 小到中雪 Light to moderate snow
+27 中到大雪 Moderate to heavy snow
+28 大到暴雪 Heavy snow to snowstorm
+29 浮尘 Dust
+30 扬沙 Sand
+31 强沙尘暴 Sandstorm
+53 霾 Haze
+99 无 Unknown
+32 浓雾 Dense fog
+49 强浓雾 Strong fog
+54 中度霾 Moderate haze
+55 重度霾 Severe haze
+56 严重霾 Severe haze
+57 大雾 Dense fog
+58 特强浓雾 Extra heavy fog
+301 雨 rain
+302 雪 snow

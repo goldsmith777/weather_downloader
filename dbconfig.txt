@@ -1,0 +1,7 @@
+{'host':'127.0.0.1'}
+{'user':'dialog'}
+{'passwd':'speaker2016'}
+{'db':'DialogService'}
+{'port':3306}
+{'charset':'utf8'}
+{'table':'weather_info'}

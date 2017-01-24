@@ -1,0 +1,10 @@
+0 无持续风向 No wind
+1 东北风 Northeast
+2 东风 East
+3 东南风 Southeast
+4 南风 South
+5 西南风 Southwest
+6 西风 West
+7 西北风 Northwest
+8 北风 North
+9 旋转风 Whirl wind

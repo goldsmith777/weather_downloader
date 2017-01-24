@@ -1,0 +1,42 @@
+observe l1 温度 temperature 摄氏度
+observe l2 湿度 humidity %
+observe l3 风力 wind 级
+observe l4 风向 windDire check
+observe l5 天气现象 weatherCondition check
+observe l6 降水量 precipitation 毫米
+observe l10 发布时间 observeTime null
+air p1 pm2.5 pm25 null
+air p2 AQI aqi null
+air P3 NO2 null null
+air p4 O3 null null
+air p5 PM10 pm10 null
+air p6 SO2 null null
+air p7 CO null null
+air p9 更新时间 airTime null
+forecast4d c1 区域ID null null null
+forecast4d c2 城市英文名 null null null
+forecast4d c3 城市中文名 county True null
+forecast4d c4 城市所在市英文名 null null null
+forecast4d c5 城市所在市中文名 city True null
+forecast4d c6 城市所在省英文名 null null null
+forecast4d c7 城市所在省中文名 province True null
+forecast4d c8 城市所在国家英文名 null null null
+forecast4d c9 城市所在国家中文名 country True null
+forecast4d c10 城市级别 null null
+forecast4d c11 城市区号 null null
+forecast4d c12 邮编 null null
+forecast4d c13 经度 null null
+forecast4d c14 纬度 null null
+forecast4d c15 海拔 null null
+forecast4d c16 雷达站号 null null
+forecast4d f0 预报发布时间 weather_UpdateTime null
+forecast4d fa 白天天气现象编号 weather check
+forecast4d fb 晚上天气现象编号 weather_night check
+forecast4d fc 白天天气温度(摄氏度) highTem 摄氏度
+forecast4d fd 晚上天气温度(摄氏度) lowTem 摄氏度
+forecast4d fe 白天风向编号 wind_direction check
+forecast4d ff 晚上风向编号 wind_direction_night check
+forecast4d fg 白天风力编号 wind check
+forecast4d fh 晚上风力编号 wind_night check
+forecast4d fi1 日出时间 sunrise null
+forecast4d fi2 日落时间 sunset null

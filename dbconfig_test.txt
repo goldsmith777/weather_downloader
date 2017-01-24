@@ -1,0 +1,7 @@
+{'host':'10.100.213.221'}
+{'user':'dialog'}
+{'passwd':'speaker2016'}
+{'db':'DialogService'}
+{'port':3306}
+{'charset':'utf8'}
+{'table':'weather_info_test'}
